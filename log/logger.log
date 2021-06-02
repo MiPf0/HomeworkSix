@@ -1,0 +1,54 @@
+[main] INFO  org.lecture.NewsDriverClass - New subscriber successfully registered.
+[main] INFO  org.lecture.NewsDriverClass - New subscriber successfully registered.
+[main] INFO  org.lecture.NewsDriverClass - Category successfully added.
+[main] INFO  org.lecture.NewsDriverClass - Category successfully added.
+[main] INFO  org.lecture.NewsDriverClass - News list successfully updated.
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.NewsDriverClass - News successfully sent.
+[main] INFO  org.lecture.Subscriber - News printed to the console and process finished.
+[main] INFO  org.lecture.Subscriber - News printed to the console and process finished.
+[main] INFO  org.lecture.NewsDriverClass - News printed successfully for every reader.
+[main] INFO  org.lecture.NewsDriverClass - New subscriber successfully registered.
+[main] INFO  org.lecture.NewsDriverClass - Category successfully added.
+[main] INFO  org.lecture.NewsDriverClass - New subscriber successfully registered.
+[main] INFO  org.lecture.NewsDriverClass - Category successfully added.
+[main] INFO  org.lecture.Subscriber - News printed to the console and process finished.
+[main] INFO  org.lecture.Subscriber - News printed to the console and process finished.
+[main] INFO  org.lecture.NewsDriverClass - News printed successfully for every reader.
+[main] INFO  org.lecture.NewsDriverClass - News list successfully updated.
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.NewsDriverClass - News successfully sent.
+[main] INFO  org.lecture.Subscriber - News printed to the console and process finished.
+[main] INFO  org.lecture.Subscriber - News printed to the console and process finished.
+[main] INFO  org.lecture.NewsDriverClass - News printed successfully for every reader.
+[main] INFO  org.lecture.Subscriber - News printed to the console and process finished.
+[main] INFO  org.lecture.Subscriber - News printed to the console and process finished.
+[main] INFO  org.lecture.NewsDriverClass - News printed successfully for every reader.
+[main] INFO  org.lecture.Subscriber - Observers updated
+[main] INFO  org.lecture.Subscriber - Observers updated
